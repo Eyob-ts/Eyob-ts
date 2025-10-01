@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yob-ts&label=Profile%20views&color=0e75b6&style=flat" alt="yob-ts" /> </p>
 
-- 🔭 I’m currently working on **Ethio Digital broker**
+- 🔭 I’m currently working on **Site.et**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **AI Integration **
 
 - 💬 Ask me about **Laravel, MERN**
 
